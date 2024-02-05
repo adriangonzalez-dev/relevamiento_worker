@@ -1,0 +1,31 @@
+
+[5/2/2024, 11:58:02] - Error al inicializar la base de datos
+[5/2/2024, 11:58:02] - error: connection is insecure (try using `sslmode=require`)
+[5/2/2024, 11:58:25] - Base de datos inicializada
+[5/2/2024, 11:59:48] - Base de datos inicializada
+[5/2/2024, 12:02:36] - Base de datos inicializada
+[5/2/2024, 12:02:50] - Base de datos inicializada
+[5/2/2024, 12:03:20] - Base de datos inicializada
+[5/2/2024, 12:03:44] - Base de datos inicializada
+[5/2/2024, 12:04:09] - Base de datos inicializada
+[5/2/2024, 12:04:25] - Base de datos inicializada
+[5/2/2024, 12:04:40] - Base de datos inicializada
+[5/2/2024, 12:05:17] - Base de datos inicializada
+[5/2/2024, 12:09:24] - Base de datos inicializada
+[5/2/2024, 12:09:45] - Base de datos inicializada
+[5/2/2024, 12:10:44] - Base de datos inicializada
+[5/2/2024, 12:10:54] - Base de datos inicializada
+[5/2/2024, 12:11:08] - Base de datos inicializada
+[5/2/2024, 12:11:26] - Base de datos inicializada
+[5/2/2024, 12:12:01] - Base de datos inicializada
+[5/2/2024, 12:13:12] - Base de datos inicializada
+[5/2/2024, 12:13:23] - Base de datos inicializada
+[5/2/2024, 12:13:56] - Base de datos inicializada
+[5/2/2024, 12:14:09] - Base de datos inicializada
+[5/2/2024, 13:19:21] - Base de datos inicializada
+[5/2/2024, 13:22:54] - Base de datos inicializada
+[5/2/2024, 13:23:37] - Base de datos inicializada
+[5/2/2024, 13:23:38] - Entity Country actualizada
+[5/2/2024, 13:23:57] - Entity Type actualizada
+[5/2/2024, 13:24:00] - Data actualizada de invgate
+[5/2/2024, 13:24:11] - Tickets actualizados

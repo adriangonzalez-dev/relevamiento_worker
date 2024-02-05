@@ -1,0 +1,1 @@
+[Mon Feb 05 2024 11:50:34 GMT-0300 (hora estándar de Argentina)] - Error al inicializar la base de datos[Mon Feb 05 2024 11:50:34 GMT-0300 (hora estándar de Argentina)] - error: connection is insecure (try using `sslmode=require`)[Mon Feb 05 2024 11:51:43 GMT-0300 (hora estándar de Argentina)] - Base de datos inicializada
