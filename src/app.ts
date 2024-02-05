@@ -11,6 +11,7 @@ import { Country } from "./entity/Country.entity"
 import { Data } from "./entity/Data.entity"
 import { Type } from "./entity/Type.entity"
 import { Via } from "./entity/Via.entity"
+import cron from 'node-cron'
 
 
 
@@ -18,7 +19,7 @@ import { Via } from "./entity/Via.entity"
     try {
         await AppDataSource.initialize()
         logGenerator('Base de datos inicializada')
-        new DataService(
+        const data = new DataService(
             new InvgateService(
                 new AxiosAdapter()
             ),
@@ -39,6 +40,10 @@ import { Via } from "./entity/Via.entity"
             ),
             AppDataSource.getRepository(Data),
         )
+        cron.schedule('*/15 * * * *', async () => {
+            await data.updateDB();
+            logGenerator('Todo actualizado ok');
+        });
     } catch (error) {
         logGenerator('Error al inicializar la base de datos')
         logGenerator(error)

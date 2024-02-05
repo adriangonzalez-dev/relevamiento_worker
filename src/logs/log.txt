@@ -1,31 +1,47 @@
 
-[5/2/2024, 11:58:02] - Error al inicializar la base de datos
-[5/2/2024, 11:58:02] - error: connection is insecure (try using `sslmode=require`)
-[5/2/2024, 11:58:25] - Base de datos inicializada
-[5/2/2024, 11:59:48] - Base de datos inicializada
-[5/2/2024, 12:02:36] - Base de datos inicializada
-[5/2/2024, 12:02:50] - Base de datos inicializada
-[5/2/2024, 12:03:20] - Base de datos inicializada
-[5/2/2024, 12:03:44] - Base de datos inicializada
-[5/2/2024, 12:04:09] - Base de datos inicializada
-[5/2/2024, 12:04:25] - Base de datos inicializada
-[5/2/2024, 12:04:40] - Base de datos inicializada
-[5/2/2024, 12:05:17] - Base de datos inicializada
-[5/2/2024, 12:09:24] - Base de datos inicializada
-[5/2/2024, 12:09:45] - Base de datos inicializada
-[5/2/2024, 12:10:44] - Base de datos inicializada
-[5/2/2024, 12:10:54] - Base de datos inicializada
-[5/2/2024, 12:11:08] - Base de datos inicializada
-[5/2/2024, 12:11:26] - Base de datos inicializada
-[5/2/2024, 12:12:01] - Base de datos inicializada
-[5/2/2024, 12:13:12] - Base de datos inicializada
-[5/2/2024, 12:13:23] - Base de datos inicializada
-[5/2/2024, 12:13:56] - Base de datos inicializada
-[5/2/2024, 12:14:09] - Base de datos inicializada
-[5/2/2024, 13:19:21] - Base de datos inicializada
-[5/2/2024, 13:22:54] - Base de datos inicializada
-[5/2/2024, 13:23:37] - Base de datos inicializada
-[5/2/2024, 13:23:38] - Entity Country actualizada
-[5/2/2024, 13:23:57] - Entity Type actualizada
-[5/2/2024, 13:24:00] - Data actualizada de invgate
-[5/2/2024, 13:24:11] - Tickets actualizados
+[5/2/2024, 13:38:09] - Base de datos inicializada
+[5/2/2024, 13:45:01] - Entity Country actualizada
+[5/2/2024, 13:45:21] - Entity Type actualizada
+[5/2/2024, 13:45:23] - Data actualizada de invgate
+[5/2/2024, 13:45:26] - Tickets actualizados
+[5/2/2024, 13:45:26] - Todo actualizado ok
+[5/2/2024, 14:00:01] - Entity Country actualizada
+[5/2/2024, 14:00:29] - Entity Type actualizada
+[5/2/2024, 14:00:30] - Data actualizada de invgate
+[5/2/2024, 14:00:32] - Tickets actualizados
+[5/2/2024, 14:00:32] - Todo actualizado ok
+[5/2/2024, 14:15:01] - Entity Country actualizada
+[5/2/2024, 14:15:25] - Entity Type actualizada
+[5/2/2024, 14:15:27] - Data actualizada de invgate
+[5/2/2024, 14:15:29] - Tickets actualizados
+[5/2/2024, 14:15:29] - Todo actualizado ok
+[5/2/2024, 14:30:01] - Entity Country actualizada
+[5/2/2024, 14:30:22] - Entity Type actualizada
+[5/2/2024, 14:30:23] - Data actualizada de invgate
+[5/2/2024, 14:30:24] - Tickets actualizados
+[5/2/2024, 14:30:24] - Todo actualizado ok
+[5/2/2024, 14:45:01] - Entity Country actualizada
+[5/2/2024, 14:45:24] - Entity Type actualizada
+[5/2/2024, 14:45:25] - Data actualizada de invgate
+[5/2/2024, 14:45:26] - Tickets actualizados
+[5/2/2024, 14:45:26] - Todo actualizado ok
+[5/2/2024, 15:00:01] - Entity Country actualizada
+[5/2/2024, 15:00:29] - Entity Type actualizada
+[5/2/2024, 15:00:30] - Data actualizada de invgate
+[5/2/2024, 15:00:31] - Tickets actualizados
+[5/2/2024, 15:00:31] - Todo actualizado ok
+[5/2/2024, 15:15:01] - Entity Country actualizada
+[5/2/2024, 15:15:24] - Entity Type actualizada
+[5/2/2024, 15:15:25] - Data actualizada de invgate
+[5/2/2024, 15:15:26] - Tickets actualizados
+[5/2/2024, 15:15:26] - Todo actualizado ok
+[5/2/2024, 15:30:01] - Entity Country actualizada
+[5/2/2024, 15:30:23] - Entity Type actualizada
+[5/2/2024, 15:30:24] - Data actualizada de invgate
+[5/2/2024, 15:30:25] - Tickets actualizados
+[5/2/2024, 15:30:25] - Todo actualizado ok
+[5/2/2024, 15:45:01] - Entity Country actualizada
+[5/2/2024, 15:45:26] - Entity Type actualizada
+[5/2/2024, 15:45:28] - Data actualizada de invgate
+[5/2/2024, 15:45:29] - Tickets actualizados
+[5/2/2024, 15:45:29] - Todo actualizado ok

@@ -11,6 +11,9 @@ dependencies:
   dotenv:
     specifier: ^16.4.1
     version: 16.4.1
+  node-cron:
+    specifier: ^3.0.3
+    version: 3.0.3
   pg:
     specifier: ^8.11.3
     version: 8.11.3
@@ -28,6 +31,9 @@ devDependencies:
   '@types/node':
     specifier: ^20.11.16
     version: 20.11.16
+  '@types/node-cron':
+    specifier: ^3.0.11
+    version: 3.0.11
   nodemon:
     specifier: ^3.0.3
     version: 3.0.3
@@ -102,6 +108,10 @@ packages:
       axios: 1.6.7
     transitivePeerDependencies:
       - debug
+    dev: true
+
+  /@types/node-cron@3.0.11:
+    resolution: {integrity: sha512-0ikrnug3/IyneSHqCBeslAhlK2aBfYek1fGo4bP4QnZPmiqSGRK+Oy7ZMisLWkesffJvQ1cqAcBnJC+8+nxIAg==}
     dev: true
 
   /@types/node@20.11.16:
@@ -522,6 +532,13 @@ packages:
       any-promise: 1.3.0
       object-assign: 4.1.1
       thenify-all: 1.6.0
+    dev: false
+
+  /node-cron@3.0.3:
+    resolution: {integrity: sha512-dOal67//nohNgYWb+nWmg5dkFdIwDm8EpeGYMekPMrngV3637lqnX0lbUcCtgibHTz6SEz7DAIjKvKDFYCnO1A==}
+    engines: {node: '>=6.0.0'}
+    dependencies:
+      uuid: 8.3.2
     dev: false
 
   /nodemon@3.0.3:
@@ -947,6 +964,11 @@ packages:
 
   /undici-types@5.26.5:
     resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
+
+  /uuid@8.3.2:
+    resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
+    hasBin: true
+    dev: false
 
   /uuid@9.0.1:
     resolution: {integrity: sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==}

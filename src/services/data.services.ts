@@ -14,9 +14,7 @@ export class DataService {
     private readonly typeService: TipoService,
     private readonly viaService: ViaSolicitudService,
     private readonly dataRepository: Repository<Data>,
-  ) {
-    this.updateDB()
-  }
+  ) {}
 
   /* async create(createDataDto: CreateDataDto) {
     try {
